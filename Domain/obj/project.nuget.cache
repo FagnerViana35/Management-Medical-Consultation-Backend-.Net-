@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "lfW0x7dpkdts9gx3ws8A2ehDgcuO2n+c1yOThelq5zSpdZ6mNjeWYTw4cdPtgvu9jB7iMzN0Pw9r2zsEgJaE4Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Domvs\\OneDrive\\Área de Trabalho\\Estudos\\C#\\Management-Medical-Consultation-backend\\Domain\\Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Domvs\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.13\\microsoft.windowsdesktop.app.ref.6.0.13.nupkg.sha512",
+    "C:\\Users\\Domvs\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.13\\microsoft.netcore.app.ref.6.0.13.nupkg.sha512",
+    "C:\\Users\\Domvs\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.13\\microsoft.aspnetcore.app.ref.6.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}
